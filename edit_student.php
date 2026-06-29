@@ -1,0 +1,1 @@
+<?php include 'db.php'; ?><h2>Edit Student</h2>

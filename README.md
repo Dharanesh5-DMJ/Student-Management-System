@@ -1,1 +1,2 @@
-# Student-Management-System
+# Student Management System
+Basic PHP/MySQL CRUD project scaffold.

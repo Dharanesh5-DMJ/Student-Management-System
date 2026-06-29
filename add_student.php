@@ -1,0 +1,1 @@
+<?php include 'db.php'; ?><h2>Add Student (implement form)</h2>
